@@ -1,5 +1,5 @@
 # Renbot
-BascomAVR coded 
+BascomAVR coded for Renbot control
 ' ******************************************************************************
 ' * Title         : Renbot                                                     *
 ' * Version       : 1.0                                                        *
